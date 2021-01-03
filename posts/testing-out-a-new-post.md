@@ -7,3 +7,7 @@ tags:
   - post
 ---
 My latest blog post
+
+
+
+![](/static/img/65204530-71a3-4c66-95e0-4428ff809a4e.jpeg)
