@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
@@ -9,11 +9,6 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I am a product management leader currently at Uber, where I've worked on simulation, visualization and ML platforms for autonomy software development for self-driving cars, as well as growth and ad tech. Prior to that I was ceo and cofounder of BrightFunnel, a data and analytics platform for b2b marketers, which was acquired after scaling to $5M in ARR and 50 employees. I have 15+ years of experience in SaaS with the last 8 years focused on data and AI.
 
-Add a few line breaks in here to test:-
-Capitalize\
-on\
-low\
-hanging\
-fruit
+I live in San Francisco with my wife, two young kids and an old poodle.
