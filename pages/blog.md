@@ -1,7 +1,7 @@
 ---
 layout: layouts/blog.njk
-title: Blog
-metaDescription: A sample Blog page listing various posts and authors.
+title: blog posts
+metaDescription: Nadim Hossain's personal blog.
 date: 2017-01-01
 permalink: /index.html
 eleventyNavigation:
